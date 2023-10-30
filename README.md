@@ -1,3 +1,7 @@
+# MedConnect:
+A website that connects medical professionals like doctors with pharmaceutical companies staff, for an easy access of medications information.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
