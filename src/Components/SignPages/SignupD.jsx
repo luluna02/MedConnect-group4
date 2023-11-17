@@ -35,7 +35,7 @@ export default function SignupD () {
             <input value={pass} onChange={(e) => setPass(e.target.value)} type="password" placeholder="Mot de passe" id="password" name="password"/>
         </div>
         <div className='input-container'>
-            <input value={phone} onChange={(e) => setPhone(e.target.value)} type="number" placeholder="Numéro de téléphone"/>
+            <input value={phone} onChange={(e) => setPhone(e.target.value)} type="text" placeholder="Numéro de téléphone"/>
         </div>
         <div className='input-container'>
             <input value={spec} onChange={(e) => setSpec(e.target.value)} type="text" placeholder="Spécialité"/>
