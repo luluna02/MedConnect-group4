@@ -1,0 +1,46 @@
+.add-form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 0 40px;
+}
+
+.form-group{
+    width: 100%;
+    max-width: 600px;
+}
+ .title {
+    color: #25655F; 
+}
+.form-group label{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: start;
+    color: #25655F;
+    margin-bottom: 10px;
+}
+
+.form-control{
+    width: 100%;
+}
+
+.add-button{
+    width: 100%;
+    max-width: 600px;
+    background-color: #54C5BA;
+    border: 1px solid #54C5BA;
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
+.errorMessage {
+    color:rgb(35, 85, 93);
+  }
